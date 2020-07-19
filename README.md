@@ -30,7 +30,7 @@ This repository contains codes, images,conlusions, reports, presentations,etc. w
     •	Statistical testing
     
     Code : task2.py
-    Datasets used: QVI_data.csv or latest.csv generated from task1.py
+    Datasets used: QVI_data.csv(inside qvi_data.rar) or latest.csv generated from task1.py
     
   <b> TASK 3: Analytics and commercial application</b>
   
