@@ -1,5 +1,5 @@
 # Quantium-Virtual-Internship
-This repository contains codes, images,conlusions, reports, presentations,etc. which were made during the tasks in the Data Analytics Virtual Internship Program by Quantium,
+This repository contains codes, images,conlusions, reports, presentations,etc. which were made during the tasks in the <b> Data Analytics Virtual Internship Program by Quantium </b>.
 
   <b> TASK 1: Data preparation and customer analytics </b>
   
